@@ -33,5 +33,5 @@ services:
       MONGO_USER: root
       MONGO_PASSWORD: emp
       SPRINGBOOT_APP_PORT: 4040
-      
-# /c/Exatip/Tutorials/DockerTutorial/db/mongo_db is local host m/c path
+
+# /c/Exatip/Tutorials/DockerTutorial/db/mongo_db is local host m/c path      
