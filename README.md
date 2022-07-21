@@ -1,4 +1,4 @@
-Demo project for Docker SPringboot MongoDB
+Demo project for Docker Springboot MongoDB
 
 1)create image using below docker command where "Dockerfile" exists. Check the image name from docker-compose.yml file at line no. 25
 docker build -t springboot-mongodb-employee-app .
